@@ -1,0 +1,1 @@
+# Day 1 – DNS Records NS (Name Server) Authoritative server that resolves domain names to IP addresses. Primary and secondary NS ensure redundancy. CNAME (Canonical Name) Alias record – points one domain to another (e.g. www → example.com). Does not hold IP; follows the target.
